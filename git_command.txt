@@ -1,7 +1,5 @@
-  509  git status 
   510  git push 
   511  nano demo.cpp
-  512  LS
   513  git status 
   514  git add demo.cpp
   515  git commit 
@@ -9,16 +7,9 @@
   517  git status 
   518  git push 
   519  git --version 
-  520  pwd
-  521  ls
-  522  pwd
-  523  git init 
-  524  ls
-  525  git --version 
   526  git config  --global --list 
   527  git clone https://github.com/maxiaoan/git_tutorials.git
   528  ls
-  529  ls
   530  echo "this is demo" >> demo.txt
   531  git status 
   532  git add demo.txt
@@ -27,4 +18,42 @@
   535  git status 
   536  git push origin  master 
   537  history > >git_command.txt
-  538  history >> git_command.txt
+   63  subscription-manager list
+   64  subscription-manager register --username=maxiaoansuccess@163.com  --password=0702150001  --auto-attach
+   65  subscription-manager register --username=maxiaoansuccess@qq.com  --password=0702150001  --auto-attach
+  306  sudo poweroff 
+  308  who
+  309  git config  --global -e
+  310  git pull
+  311  pwd
+  318  ls
+  319  mkdir projects
+  320  cd projects/
+  321  ls
+  327  git config --global --list 
+  328  git config --global user.name "maxiaoan"
+  329  git config --global user.email "maxiaoansuccess@qq.com"
+  330  git config --global --list 
+  331  git clone https://github.com/maxiaoan/git_tutorials.git
+  332  pwd
+  339  vim ~/.gitconfig 
+  340  ls
+  342  git config --global -e
+  343  git config --global  core.editor "vim"
+  344  git config --global -e
+  345  ls
+  347  git init 
+  348  git status 
+  349  ls
+  350  cd git_tutorials/
+  368  git commit -m "rename files"
+  369  git status 
+  371  ls
+  372  git status 
+  374  git add .
+  375  git status 
+  376  git commit .
+  377  git status 
+  378  git commit 
+  379  git push  origin  master 
+  380  ls
