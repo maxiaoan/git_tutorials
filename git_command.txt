@@ -17,10 +17,6 @@
   534  git commit  -m "new test file"
   535  git status 
   536  git push origin  master 
-  537  history > >git_command.txt
-   63  subscription-manager list
-   64  subscription-manager register --username=maxiaoansuccess@163.com  --password=0702150001  --auto-attach
-   65  subscription-manager register --username=maxiaoansuccess@qq.com  --password=0702150001  --auto-attach
   306  sudo poweroff 
   308  who
   309  git config  --global -e
